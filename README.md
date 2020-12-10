@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Medium](https://medium.com/@mert.demir96)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm dealing with the algorithm
--->
