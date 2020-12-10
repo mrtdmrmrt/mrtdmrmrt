@@ -45,13 +45,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtdmrmrt&layout=compact)](https://github.com/mrtdmrmrt/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/mrtdmrmrt/github-readme-stats)-->
+
+<!--
 <br />
 ---
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="mrtdmrmrt's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mrtdmrmrt&show_icons=true&hide_border=true" />
-
 </details>
+-->
