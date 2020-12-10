@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Vue.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [Medium](https://medium.com/@mert.demir96)
-- ⚡ Fun fact: I'm dealing with the algorithm
+- ⚡ Fun fact: I'm dealing with the data structure and algorithm
 
 ### Connect with me:
 [<img align="left" alt="mertdemir | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mert.demir96)
