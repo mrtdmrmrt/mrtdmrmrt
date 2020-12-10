@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 <br />
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtdmrmrt&exclude_repo=github-readme-stats,mrtdmrmrt.github.io)](https://github.com/mrtdmrmrt/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
 <br />
 ---
 
