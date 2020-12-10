@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrtdmrmrt&repo=github-readme-stats)](https://github.com/mrtdmrmrt/github-readme-stats)
 <br />
 ---
 
-[!(https://github-readme-stats.vercel.app/api/wakatime?username=mrtdmrmrt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ---
 
