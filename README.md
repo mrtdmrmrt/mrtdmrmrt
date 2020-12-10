@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=mrtdmrmrt&color=blue&label=Profile+Views)
 <br />
-<br />
-
 ---
 
 <details>
