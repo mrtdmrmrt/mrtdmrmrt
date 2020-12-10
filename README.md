@@ -42,13 +42,12 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-![](https://komarev.com/ghpvc/?username=mrtdmrmrt&color=blue&label=Profile+Views)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrtdmrmrt)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrtdmrmrt)](https://github.com/anuraghazra/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api/wakatime?username=mrtdmrmrt)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 ---
 
