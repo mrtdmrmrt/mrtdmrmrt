@@ -1,5 +1,5 @@
 ### Hi I am Mert DEMIR 👋
- <img align="right" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.imgur.com%2FvT4Oclk.gif&imgrefurl=https%3A%2F%2Fimgur.com%2FvT4Oclk&tbnid=0HxMndbDGapSiM&vet=12ahUKEwjrmc7Eq8jtAhUB_4UKHdw-BE4QMygOegUIARD0AQ..i&docid=12lZ4kgI1t8RXM&w=640&h=360&q=code%20developer%20gif&ved=2ahUKEwjrmc7Eq8jtAhUB_4UKHdw-BE4QMygOegUIARD0AQ#imgrc=xSEJC-uHk4C1LM&imgdii=CVLQvplLvZ78OM?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.imgur.com%2FvT4Oclk.gif&imgrefurl=https%3A%2F%2Fimgur.com%2FvT4Oclk&tbnid=0HxMndbDGapSiM&vet=12ahUKEwjrmc7Eq8jtAhUB_4UKHdw-BE4QMygOegUIARD0AQ..i&docid=12lZ4kgI1t8RXM&w=640&h=360&q=code%20developer%20gif&ved=2ahUKEwjrmc7Eq8jtAhUB_4UKHdw-BE4QMygOegUIARD0AQ#imgrc=xSEJC-uHk4C1LM&imgdii=CVLQvplLvZ78OM" width="500" height="320" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Digitastic.Plus
