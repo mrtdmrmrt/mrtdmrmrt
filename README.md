@@ -1,7 +1,7 @@
 ### Hi I am Mert DEMIR 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Digitastic.Plus
+- 🔭 I’m currently working on Doğuş Teknoloji
 - 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate on Vue.js
 - 💬 Ask me about anything
