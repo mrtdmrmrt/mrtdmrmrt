@@ -1,5 +1,4 @@
 ### Hi I am Mert DEMIR 👋
- <img align="right" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" width="500" height="320" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Digitastic.Plus
